@@ -1,0 +1,44 @@
+body {
+  /* WebKit */
+  background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 400, from(#262727), to(#0d140d));
+  /* Firefox */
+  background: -moz-radial-gradient(50% 50%, farthest-side, #262727, #0d140d);
+  font-family: futura;
+  text-shadow: 4px 4px 10px #000;
+}
+
+h1 {
+  font-family: "Mona Lisa Solid ITC TT";
+  color: #aaa;
+  text-shadow: 0px 6px 5px #000;
+}
+
+#preso, .slide {
+  color: #ccc;
+  border: none;
+  background: transparent;
+}
+
+#preso {
+ background: url('digisynd_logo_colorshift.png') no-repeat center center;
+}
+
+.slide {
+  background: transparent;
+}
+
+li {
+  font-size: 90%;
+}
+
+.small li {
+  font-size: 45%;
+}
+
+.small ul li{
+  padding: 10px;
+}
+
+a {
+  color: #9ac;
+}
