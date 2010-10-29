@@ -1,1 +1,11 @@
-{ "name": "HTML5 and You", "sections": [ {"section":"one"} ]}
+{ 
+  "name": "HTML5 and You", 
+  "sections": [ 
+    {"section": "intro"},
+    {"section": "styling"},
+    {"section": "rendering"},
+    {"section": "apis"},
+    {"section": "multimedia"},
+    {"section": "compatibility"}
+  ]
+}
